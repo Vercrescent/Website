@@ -1,0 +1,25 @@
+#mainNav:not(.navbar-shrink){
+    background-color: #292828;
+}
+
+.card-img-top {
+width: 100%;
+height: 40vh;
+object-fit: cover;
+}
+
+.card {
+    box-shadow:-3px 0px 8px grey;;
+}
+
+.tab {
+    text-indent: 40px;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
+.items .card:hover {
+    box-shadow: -1px -1px 15px gold;
+}
